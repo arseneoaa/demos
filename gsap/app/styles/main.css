@@ -81,3 +81,14 @@ body {
     border-bottom: 0;
   }
 }
+
+.m-a-1 {
+  margin: 1em;
+}
+
+.positionRelative {
+  position: relative;
+}
+.bigFontSize {
+  font-size: 3em;
+}
