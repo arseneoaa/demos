@@ -2,18 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="41c45281-0f3d-4e09-8eea-175dcc75c606" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gsap/dist/scripts/scripts.6d00efc3.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gsap/dist/scripts/vendor.cd318db6.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gsap/dist/styles/main.16c86e60.css" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gsap/.gitignore" afterPath="$PROJECT_DIR$/gsap/.gitignore" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gsap/Gruntfile.js" afterPath="$PROJECT_DIR$/gsap/Gruntfile.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gsap/app/scripts/app.js" afterPath="$PROJECT_DIR$/gsap/app/scripts/app.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gsap/app/index.html" afterPath="$PROJECT_DIR$/gsap/app/index.html" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gsap/dist/scripts/scripts.a963a158.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gsap/dist/scripts/vendor.fed12ca3.js" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gsap/dist/index.html" afterPath="$PROJECT_DIR$/gsap/dist/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gsap/app/styles/main.css" afterPath="$PROJECT_DIR$/gsap/app/styles/main.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gsap/app/views/main.html" afterPath="$PROJECT_DIR$/gsap/app/views/main.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gsap/app/scripts/controllers/main.js" afterPath="$PROJECT_DIR$/gsap/app/scripts/controllers/main.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="demos.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -37,8 +28,8 @@
       <file leaf-file-name="main.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/gsap/app/views/main.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.68904597">
-              <caret line="26" column="103" selection-start-line="26" selection-start-column="103" selection-end-line="26" selection-end-column="103" />
+            <state vertical-scroll-proportion="0.4770318">
+              <caret line="18" column="23" selection-start-line="18" selection-start-column="23" selection-end-line="18" selection-end-column="23" />
               <folding>
                 <element signature="n#style#0;n#img#0;n#p#0;n#div#1;n#!!top" expanded="true" />
               </folding>
@@ -148,6 +139,46 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="gsap" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="demos" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="demos" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="gsap" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dist" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="demos" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="demos" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="gsap" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dist" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -289,9 +320,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1358" height="733" extended-state="4" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24906227" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24906227" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32901135" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -435,8 +466,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/gsap/app/views/main.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.68904597">
-          <caret line="26" column="103" selection-start-line="26" selection-start-column="103" selection-end-line="26" selection-end-column="103" />
+        <state vertical-scroll-proportion="0.4770318">
+          <caret line="18" column="23" selection-start-line="18" selection-start-column="23" selection-end-line="18" selection-end-column="23" />
           <folding>
             <element signature="n#style#0;n#img#0;n#p#0;n#div#1;n#!!top" expanded="true" />
           </folding>
